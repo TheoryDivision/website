@@ -981,6 +981,7 @@ ul.people_list li {
 			padding: 0;
 			position: absolute;
 			top: 0;
+			font-size: 1.25rem;
 		}
 
 		#header h1 img {
