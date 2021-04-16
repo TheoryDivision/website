@@ -8,7 +8,7 @@ document.write('<h1><a href="https://my.clevelandclinic.org/"><img src="images/l
 						<li><a href="publications.html">Publications</a></li>\
 						<li><a href="software.html">Software</a></li>\
 						<li><a href="work_in_progress.html">Work in Progress</a></li>\
-						<li><a href="media.html">Media</a></li>\
+						<li><a href="https://www.youtube.com/channel/UCr_3HE-tUGu9mlSHQGZSYQA" target="_blank">Media</a></li>\
 						<li><a target="_blank" href="http://cancerconnector.blogspot.com/">Blog</a></li>\
 						<li><a href="join.html">Join</a></li>\
 					</ul>\
